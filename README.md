@@ -9,4 +9,5 @@ Cab fare pricing is affected by multiple factors such as:
 3.  Number of passengers 👥
 4.  Traffic conditions 🚦
 5.  Surge pricing and additional charges 💲
+   
 This project aims to build a predictive model to estimate fare amounts using Supervised Learning algorithms.
